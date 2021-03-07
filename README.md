@@ -1,5 +1,5 @@
 1. Set up and run program
-    Open a terminal
+    > Open a terminal
     * `$ git clone https://github.com/shihpinhsuan/hw1.git`
     * `$ python3 hw1.py`
 
